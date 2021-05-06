@@ -30,7 +30,7 @@ class Users():
                     print(splitData)
                     
                     # Création d'un document Excel regroupant toutes les statistiques pour chaque personne.
-                    with pd.ExcelWriter(r'C:\Users\axel6\Documents\schlosser.axel_python\Projet Perso\Statistiques_Netflix.xls') as writer:
+                    with pd.ExcelWriter(r'C:\Users\axel6\Documents\schlosser.axel_python\Projet Perso\StatistiquesNetflix.xls') as writer:
                         tableauJSON.to_excel(writer)
     
     
