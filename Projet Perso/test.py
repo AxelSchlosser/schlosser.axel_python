@@ -4,10 +4,11 @@ import json
 
 from Users import Users
  
+ 
+#Fichier de test 
 def main():
     user = Users()
-    user.getStats("E2B5N6MRBFAANF55U2G7OFJN5Y")
+    user.getStats("4M4232SANZBXHNJ7FAAQUV6NY4")
     
-
 if __name__ == '__main__':
     main()    
