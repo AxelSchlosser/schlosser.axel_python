@@ -1,8 +1,8 @@
-Cahier des charges du projet personnel:
+# Cahier des charges du projet personnel:
 
 Utilisation de la librairie pandas pour traiter les Big Data.
 
-Sujet: On récupère à l'aide d'un script python toutes les séries les films regardé sur Netflix par chacune des persoonnes de la classe ayant la plateforme afin de faire des statistiques.
+## Sujet: On récupère à l'aide d'un script python toutes les séries les films regardé sur Netflix par chacune des persoonnes de la classe ayant la plateforme afin de faire des statistiques.
 
 On se sert du numéro d'utilisateur pour avoir accès aux différents historiques. (contenu dans un fichier texte qui sera parcouru ligne par ligne).
 On crée une boucle qui affiche les 5 dernières pages de l'historique afin de parcourir les 100 derniers films/séries.
